@@ -6,6 +6,9 @@
 
 ## Fail2Ban: ban hosts that cause multiple authentication errors
 
+## [Download As Zip File](https://github.com/HackersZone/abdal_fail2ban/zipball/master/)
+
+
 Fail2Ban scans log files like `/var/log/auth.log` and bans IP addresses having
 too many failed login attempts. It does this by updating system firewall rules
 to reject new connections from those IP addresses, for a configurable amount
@@ -86,18 +89,8 @@ Code status:
 Contact:
 --------
 
-### Bugs, feature requests, discussions?
-See [CONTRIBUTING.md](https://github.com/fail2ban/fail2ban/blob/master/CONTRIBUTING.md)
+ Abdal.Group@Gmail.Com
 
-### You just appreciate this program:
-send kudos to the original author ([Cyril Jaquier](mailto:cyril.jaquier@fail2ban.org))
-or *better* to the [mailing list](https://lists.sourceforge.net/lists/listinfo/fail2ban-users)
-since Fail2Ban is "community-driven" for years now.
-
-Thanks:
--------
-
-See [THANKS](https://github.com/fail2ban/fail2ban/blob/master/THANKS) file.
 
 License:
 --------
